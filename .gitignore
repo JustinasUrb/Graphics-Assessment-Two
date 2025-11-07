@@ -1,0 +1,41 @@
+# Unreal Engine folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignore user-specific and IDE files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.log
+*.user
+*.userprefs
+*.db
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.obj
+*.pch
+*.res
+*.ilk
+*.tmp
+*.cache
+*.csproj
+*.vcxproj
+*.xcodeproj
+
+# IDE folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
